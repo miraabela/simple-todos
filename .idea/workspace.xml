@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b6433296-07fd-4193-a424-28a9f23ede64" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/imports/api/tasks.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/imports/ui/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/imports/ui/App.js" afterDir="false" />
-    </list>
+    <list default="true" id="b6433296-07fd-4193-a424-28a9f23ede64" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,8 +26,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/imports/ui/App.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+            <state relative-caret-position="98">
+              <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
               </folding>
@@ -120,8 +117,8 @@
     <auto-save>true</auto-save>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="144" />
-    <option name="y" value="309" />
+    <option name="x" value="238" />
+    <option name="y" value="148" />
     <option name="width" value="1229" />
     <option name="height" value="720" />
   </component>
@@ -203,7 +200,7 @@
     </option>
   </component>
   <component name="ToolWindowManager">
-    <frame x="144" y="309" width="1229" height="720" extended-state="0" />
+    <frame x="238" y="148" width="1229" height="720" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" />
@@ -299,8 +296,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/imports/ui/App.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+        <state relative-caret-position="98">
+          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
           </folding>
